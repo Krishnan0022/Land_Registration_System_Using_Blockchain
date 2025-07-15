@@ -2,7 +2,6 @@
 
 A decentralized application (DApp) for secure, transparent, and efficient land registration built on the Ethereum blockchain using smart contracts, IPFS, and zero-knowledge proofs.
 
----
 
 ## 🚀 Project Overview
 
@@ -18,7 +17,7 @@ This DApp enables users to:
 
 The backend is powered by **Solidity smart contracts**, deployed using **Truffle**, and the frontend is built in **React.js** with **Tailwind CSS**. MetaMask handles wallet interactions.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -32,7 +31,6 @@ The backend is powered by **Solidity smart contracts**, deployed using **Truffle
 | **Backend API**  | Node.js, Express                       |
 | **Privacy Layer**| Circom, Zero-Knowledge Proofs (ZKPs)   |
 
----
 
 ## 📁 Project Structure
 
@@ -48,11 +46,6 @@ Land-Registration-DApp/
 │ └── src/ # React components, pages, services
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -116,16 +109,8 @@ Smart contracts thoroughly tested
 Wallet-based authentication using MetaMask
 Transaction privacy via zk-SNARKs (ZKPs)
 
-🌐 Repository
-🔗 GitHub Repository
-
 🤝 Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
-
-
-
-
-
 
 
 
