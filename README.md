@@ -99,36 +99,21 @@ cd ../frontend
 npm start
 Then open http://localhost:3000 in your browser.
 
-🖼️ Screenshots
+## Project Information
+
 ✨ Account Fetch via MetaMask
-
-
 📋 User Registration
-
-
 🔐 Unique Identity Commitment Generation (for ZKP)
-
-
 🏠 Home Page
-
-
 📑 Property Registration
-
-
 📁 Upload Document to IPFS
-
-
 🔎 Transaction Details & ZKP Backend View
-
-
 💸 Ownership Transfer & Sale Process (John Doe)
 
 
 🛡️ Security
 Smart contracts thoroughly tested
-
 Wallet-based authentication using MetaMask
-
 Transaction privacy via zk-SNARKs (ZKPs)
 
 🌐 Repository
@@ -146,5 +131,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 
-Ask ChatGPT
 
